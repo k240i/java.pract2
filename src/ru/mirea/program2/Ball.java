@@ -1,8 +1,8 @@
 package ru.mirea.program2;
 
 public class Ball {
-    double x = 0.0;
-    double y = 0.0;
+    private double x = 0.0;
+    private double y = 0.0;
 
     public Ball(double x, double y) {
         this.x = x;
